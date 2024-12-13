@@ -10,6 +10,7 @@ import time
 import requests
 from PIL import Image
 from pathlib import Path
+import openai
 from openai import AzureOpenAI
 
 # Streamlit UI for inputting Azure OpenAI keys
