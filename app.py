@@ -1,3 +1,6 @@
+import os
+os.system("bash setup.sh")  # Run setup.sh if required
+
 import streamlit as st
 import os
 import time
