@@ -1,8 +1,8 @@
 import streamlit as st
 import os
 import time
-import matplotlib 
-import matplotlib.pyplot as plt
+# import matplotlib 
+# import matplotlib.pyplot as plt
 import cv2
 import requests
 from PIL import Image
